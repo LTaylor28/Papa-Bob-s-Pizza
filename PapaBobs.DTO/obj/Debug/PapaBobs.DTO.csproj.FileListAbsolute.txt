@@ -1,0 +1,6 @@
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojAssemblyReference.cache
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb

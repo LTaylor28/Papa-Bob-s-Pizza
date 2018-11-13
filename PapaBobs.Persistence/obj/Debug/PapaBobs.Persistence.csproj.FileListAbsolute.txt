@@ -1,0 +1,14 @@
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojAssemblyReference.cache
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CopyComplete
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\Laquanta\source\repos\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
